@@ -1,0 +1,41 @@
+FONTLOG for the Marjorie font
+
+This file provides detailed information on the Marjorie font software. This
+information should be distributed along with the Marjorie fonts and any
+derivative works.
+
+
+Basic Font Information
+
+Marjorie is a geometric display typeface with Art Deco bones — high-waisted
+proportions, classical Roman skeletons, and clean monoline strokes. It was
+drawn for headlines, posters, logotypes, and packaging where a single
+confident voice carries the layout. One weight (Regular), 460 glyphs,
+covering the basic Latin alphabet, figures, punctuation, and accented
+Latin characters.
+
+Originally designed in 2016. Released as open source under the SIL Open
+Font License in 2026.
+
+
+ChangeLog
+
+1.001 (2026-06-17) David Tucker
+- First public release.
+- Open-sourced under the SIL Open Font License, Version 1.1.
+- Metadata updated for open distribution; "Marjorie" set as a Reserved
+  Font Name.
+
+1.000 (2016) David Tucker
+- Original design and private release.
+
+
+Acknowledgements
+
+When you make modifications, be sure to add your name (N), email (E),
+web address (W) and description (D). This list is sorted by last name in
+alphabetical order.
+
+N: David Tucker
+W: https://davidtucker.me
+D: Original designer of Marjorie

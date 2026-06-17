@@ -1,0 +1,11 @@
+.DS_Store
+*.swp
+Thumbs.db
+
+# fontmake build intermediates
+build/
+master_ufo/
+instance_ufo/
+instance_otf/
+instance_ttf/
+*.designspace
