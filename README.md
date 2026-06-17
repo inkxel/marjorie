@@ -28,7 +28,8 @@ Built for display sizes. It sings as a headline and on a poster; for long passag
 ```css
 @font-face {
   font-family: "Marjorie";
-  src: url("Marjorie-Regular.woff2") format("woff2");
+  src: url("Marjorie-Regular.woff2") format("woff2"),
+       url("Marjorie-Regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -56,4 +57,4 @@ See [`FONTLOG.txt`](FONTLOG.txt) for version history.
 ## Author
 
 Designed by **David Tucker** — type design and creative technology.
-[davidtucker.me](https://davidtucker.me) · [@inkxel](https://instagram.com/inkxel)
+[tvcker.com](https://tvcker.com) · [@inkxel](https://instagram.com/inkxel)

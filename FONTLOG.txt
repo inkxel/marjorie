@@ -37,5 +37,5 @@ web address (W) and description (D). This list is sorted by last name in
 alphabetical order.
 
 N: David Tucker
-W: https://davidtucker.me
+W: https://tvcker.com
 D: Original designer of Marjorie
