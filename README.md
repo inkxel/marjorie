@@ -2,7 +2,7 @@
 
 ![Marjorie specimen: the word "MARJORIE" in large capitals above the uppercase, lowercase and figure set, in black on a peach background](documentation/specimen.jpg)
 
-**Marjorie** is a geometric display typeface with Art Deco bones — high-waisted proportions, classical Roman skeletons, and clean monoline strokes. Drawn for headlines, posters, logotypes, and packaging, where a single confident voice carries the layout.
+**Marjorie** is a display typeface with classical Roman skeletons and flared strokes. Drawn for headlines, posters, logotypes, and packaging, where a single confident voice carries the layout.
 
 Free and open source under the [SIL Open Font License 1.1](OFL.txt). Current version: 1.001.
 
@@ -12,7 +12,6 @@ Free and open source under the [SIL Open Font License 1.1](OFL.txt). Current ver
 | --- | --- |
 | **Category** | Display typeface, Latin script |
 | **Styles** | One: Regular |
-| **Glyphs** | 460 |
 | **Best at** | Headlines, posters, logotypes, packaging |
 | **License** | SIL Open Font License 1.1 (free for personal and commercial use) |
 | **Designer** | David Tucker, [tvcker.com](https://tvcker.com) |
@@ -24,14 +23,13 @@ The image above shows the basic character set: the name set large, then uppercas
 Character coverage:
 
 - Uppercase and lowercase Latin (`A–Z`, `a–z`)
-- Figures `0–9` and basic punctuation
-- Accented Latin characters for Western European languages
+- Figures `0–9` and some punctuation (as shown in the specimen)
 
 Marjorie is built for display sizes. It sings as a headline and on a poster; for long passages of body text, reach for something else.
 
 ## Styles and files
 
-There is a single style, **Regular** (weight 400, upright), supplied in four formats:
+There is a single style, **Regular** (upright), supplied in four formats:
 
 | File | Format | Use it for |
 | --- | --- | --- |
