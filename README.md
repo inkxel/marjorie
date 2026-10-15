@@ -2,7 +2,7 @@
 
 ![Marjorie specimen: the word "MARJORIE" in large capitals above the uppercase, lowercase and figure set, in black on a peach background](documentation/specimen.jpg)
 
-**Marjorie** is a display typeface with classical Roman skeletons and flared strokes. Drawn for headlines, posters, logotypes, and packaging, where a single confident voice carries the layout.
+**Marjorie** is a display typeface with Art Deco bones — high-waisted proportions, classical Roman skeletons, and flared strokes. Drawn for headlines, posters, logotypes, and packaging, where a single confident voice carries the layout.
 
 Free and open source under the [SIL Open Font License 1.1](OFL.txt). Current version: 1.001.
 
