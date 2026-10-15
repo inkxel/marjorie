@@ -2,7 +2,7 @@
 
 ![Marjorie specimen: the word "MARJORIE" in large capitals above the uppercase, lowercase and figure set, in black on a peach background](documentation/specimen.jpg)
 
-**Marjorie** is a display typeface with Art Deco bones — high-waisted proportions, classical Roman skeletons, and flared strokes. Drawn for headlines, posters, logotypes, and packaging, where a single confident voice carries the layout.
+**Marjorie** is a display typeface with Art Deco bones — high-waisted proportions, classical Roman skeletons, and flared strokes, with geometric inspiration in its round forms. Drawn for headlines, posters, logotypes, and packaging, where a single confident voice carries the layout.
 
 Free and open source under the [SIL Open Font License 1.1](OFL.txt). Current version: 1.001.
 
@@ -18,7 +18,7 @@ Free and open source under the [SIL Open Font License 1.1](OFL.txt). Current ver
 
 ## Specimen
 
-The image above shows the basic character set: the name set large, then uppercase, lowercase, figures and a few punctuation marks. The capitals are open and widely spaced, with tall, slender proportions and classical Roman skeletons. Stroke ends are slightly flared, which gives words a carved, poster-like rhythm. The lowercase is single-storey and open, and a few letters (`J`, `g`, `y`) drop below the baseline.
+The image above shows the basic character set: the name set large, then uppercase, lowercase, figures and a few punctuation marks. The capitals are open and widely spaced, with tall, slender proportions and classical Roman skeletons. The geometric influence shows in the round shapes, such as the `O` and the bowls of letters like `a`, `b`, `d`, `p` and `q`. Stroke ends are slightly flared, which gives words a carved, poster-like rhythm. The lowercase is single-storey and open, and a few letters (`J`, `g`, `y`) drop below the baseline.
 
 Character coverage:
 
